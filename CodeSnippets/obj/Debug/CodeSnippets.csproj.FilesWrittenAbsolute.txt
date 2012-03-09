@@ -1,0 +1,12 @@
+/Users/zanewhitney/Projects/CodeSnippets/CodeSnippets/bin/Debug/CodeSnippets.dll.mdb
+/Users/zanewhitney/Projects/CodeSnippets/CodeSnippets/bin/Debug/CodeSnippets.dll
+/Users/zanewhitney/Projects/CodeSnippets/CodeSnippets/bin/Debug/CodeSnippets.CodeSnippets.apk
+/Users/zanewhitney/Projects/CodeSnippets/CodeSnippets/obj/Debug/android/bin/CodeSnippets.CodeSnippets.apk
+/Users/zanewhitney/Projects/CodeSnippets/CodeSnippets/obj/Debug/res/layout/main.axml
+/Users/zanewhitney/Projects/CodeSnippets/CodeSnippets/obj/Debug/res/values/strings.xml
+/Users/zanewhitney/Projects/CodeSnippets/CodeSnippets/obj/Debug/res/drawable/icon.png
+/Users/zanewhitney/Projects/CodeSnippets/CodeSnippets/obj/Debug/R.cs.flag
+/Users/zanewhitney/Projects/CodeSnippets/CodeSnippets/bin/Debug/CodeSnippets.CodeSnippets-Signed.apk
+/Users/zanewhitney/Projects/CodeSnippets/CodeSnippets/obj/Debug/uploadflags.txt
+/Users/zanewhitney/Projects/CodeSnippets/CodeSnippets/obj/Debug/CodeSnippets.dll
+/Users/zanewhitney/Projects/CodeSnippets/CodeSnippets/obj/Debug/CodeSnippets.dll.mdb
